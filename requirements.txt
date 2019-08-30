@@ -5,7 +5,6 @@ jupyter_contrib_nbextensions
 fiona
 pandas
 scipy
-git+https://github.com/matplotlib/basemap.git
 descartes
 shapely
 pysal
