@@ -1,8 +1,10 @@
+bokeh
 cx_Oracle
 descartes
 faker
 fastai
 fiona
+geopandas
 ipython-sql
 ipywidgets
 jupyter-sql
@@ -13,6 +15,7 @@ pandas
 pandas-profiling
 plotly
 pysal
+rtree
 scipy
 seaborn
 shap
