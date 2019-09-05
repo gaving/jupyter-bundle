@@ -1,2 +1,12 @@
+gdal-bin
 libaio1
+libgdal-dev
+libgeos-dev
+libpdal-dev
+libpdal-plugin-python
+libproj-dev
 libspatialindex-dev
+pdal
+proj-bin
+proj-data
+python-gdal

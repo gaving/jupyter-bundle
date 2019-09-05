@@ -1,0 +1,30 @@
+channels:
+  - conda-forge
+dependencies:
+  - bokeh
+  - contextily
+  - cx_Oracle
+  - descartes
+  - faker
+  - fiona
+  - geopandas
+  - gdal
+  - ipython-sql
+  - ipywidgets
+  - jupyter_contrib_nbextensions
+  - matplotlib
+  - numpy
+  - pandas
+  - pandas-profiling
+  - pillow
+  - plotly
+  - pysal
+  - rtree
+  - scipy
+  - seaborn
+  - shap
+  - shapely
+  - scikit-learn
+  - pip:
+      - fastai
+      - sklearn-pandas
