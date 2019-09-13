@@ -2,6 +2,7 @@ channels:
   - conda-forge
 dependencies:
   - bokeh
+  - cartopy
   - contextily
   - cx_Oracle
   - descartes
